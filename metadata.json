@@ -1,0 +1,6 @@
+
+{
+  "name": "La Malteadería",
+  "description": "A high-end milkshake shop application featuring a customer menu, checkout via WhatsApp, and a comprehensive admin dashboard for inventory and category management.",
+  "requestFramePermissions": []
+}
