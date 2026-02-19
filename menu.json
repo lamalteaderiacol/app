@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vainilla Clásica",
+      "description": "Cremoso helado de vainilla artesanal batido con leche fresca y toque de canela.",
+      "price": 12,
+      "image": "https://img.freepik.com/foto-gratis/vista-frontal-delicioso-batido-chocolate_23-2148549953.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 2,
+      "name": "Chocolate Intenso",
+      "description": "Doble carga de chocolate belga con trozos de brownie y sirope de cacao.",
+      "price": 13.5,
+      "image": "https://img.freepik.com/foto-gratis/vaso-batido-chocolate-crema-batida_140725-3736.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 3,
+      "name": "Fresa Silvestre",
+      "description": "Fresas naturales maceradas, helado de yogur y un toque de menta fresca.",
+      "price": 12.5,
+      "image": "https://img.freepik.com/foto-gratis/batido-fresa-vaso_140725-5028.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 4,
+      "name": "Oreo Supreme",
+      "description": "Base de vainilla con trozos de galleta Oreo, crema batida y lluvia de galleta.",
+      "price": 15,
+      "image": "https://img.freepik.com/foto-gratis/batido-chocolate-galletas_140725-5203.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 5,
+      "name": "Caramelo Salado",
+      "description": "Helado de caramelo con un toque de sal marina y pretzels crujientes.",
+      "price": 14,
+      "image": "https://img.freepik.com/foto-gratis/batido-caramelo-crema-batida_140725-3738.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 6,
+      "name": "Unicornio Mágico",
+      "description": "Explosión de colores sabor chicle, con crema batida, chispas y algodón de azúcar.",
+      "price": 16,
+      "image": "https://img.freepik.com/foto-gratis/batido-fresa-crema-batida_140725-5353.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 7,
+      "name": "Café Mocca",
+      "description": "Café espresso recién hecho batido con helado de chocolate y granos de café.",
+      "price": 13,
+      "image": "https://img.freepik.com/foto-gratis/batido-cafe-vaso_140725-3741.jpg",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 8,
+      "name": "Nutella Lover",
+      "description": "Abundante Nutella mezclada con avellanas tostadas y helado de chocolate.",
+      "price": 15.5,
+      "image": "https://img.freepik.com/foto-gratis/batido-chocolate-avellanas_140725-3743.jpg",
+      "available": false,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 10,
+      "name": "Prueba",
+      "description": "Un delicioso batido artesanal.",
+      "price": 10000,
+      "image": "/imagenes/1771370525597-Gemini_Generated_Image_qa8gwdqa8gwdqa8g.png",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    },
+    {
+      "id": 11,
+      "name": "PRUEBA 2",
+      "description": "Un delicioso batido artesanal.",
+      "price": 25500,
+      "image": "/imagenes/1771370865462-_DSC8505.jpg",
+      "available": true,
+      "category": "Premium",
+      "image_position": "50% 74%"
+    },
+    {
+      "id": 12,
+      "name": "PRUEBA 3",
+      "description": "LA PRUEBA 3 ",
+      "price": 29000,
+      "image": "https://picsum.photos/400/400",
+      "available": true,
+      "category": "Clásicas",
+      "image_position": "center"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Clásicas",
+      "desc": "Sabores tradicionales como vainilla, chocolate y fresa.",
+      "items_count": 24,
+      "status": "Activo",
+      "color": "bg-primary"
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "desc": "Ingredientes importados y mezclas gourmet exclusivas.",
+      "items_count": 15,
+      "status": "Activo",
+      "color": "bg-blue-400"
+    },
+    {
+      "id": 3,
+      "name": "Especiales",
+      "desc": "Combinaciones de temporada y ediciones limitadas.",
+      "items_count": 8,
+      "status": "Inactivo",
+      "color": "bg-yellow-400"
+    }
+  ],
+  "config": {
+    "id": 1,
+    "description": "Sabor artesanal en cada sorbo. La mejor experiencia dulce de la ciudad, utilizando ingredientes frescos y procesos 100% manuales.",
+    "schedule": "Lunes - Sábado: 2:00 PM - 9:00 PM\nDomingos: 2:00 PM - 8:00 PM",
+    "address": "Carrera 23A  #60-05, Colonia San Rafael, CDMX",
+    "landing_hero_image": "/imagenes/hero-1771434279788-shakegen-image-1770314377809.png",
+    "home_hero_image": "/imagenes/product-hero-1771434494137-Gemini_Generated_Image_qa8gwdqa8gwdqa8g.png"
+  }
+}
